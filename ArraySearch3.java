@@ -21,10 +21,10 @@ public class ArraySearch3 {
       }
           index++;
 
-    }   
-
+     }   
+    
     if(!isFound){
     System.out.println("Element Not Found");
-   }
+   }  
   }
 }
